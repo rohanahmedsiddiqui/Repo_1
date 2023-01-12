@@ -1,3 +1,2 @@
 this is line one
 this is line two
-this is third line in third branch of first.txt file
