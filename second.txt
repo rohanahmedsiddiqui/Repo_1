@@ -1,2 +1,3 @@
 this is first line of second.txt in third branch
 this is second line of second.txt
+third line
